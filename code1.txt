@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-20240603 main
-=======
-20240603 test
->>>>>>> test
+bug fixed
 
 new code
 new codenew line
