@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-20240603 main
-=======
-20240603 test
->>>>>>> test
+testing
+testing again
 
 new code
 new codenew line
@@ -14,3 +11,4 @@ hihihi
 지연아아녕
 
 feat1
+newline feat
